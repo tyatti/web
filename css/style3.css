@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(255, 255, 204); 
+    color: rgb(0,0,0);
+    
+}
+
+
+
+
+.socials {
+    border: 10px; 
+    background-color: #e1cca5; 
+    font-size: 23px; 
+}
+
+
+.mylinks:hover {
+    background: rgb(173, 216, 230); 
+}
+
+
+    

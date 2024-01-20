@@ -1,0 +1,35 @@
+
+body {
+    background-color: rgb(250, 239, 214); 
+    color: rgb(118, 40, 55); 
+}
+
+p {
+    font-size: 23px; 
+}
+
+h1 {
+    font-size: 44px; 
+}
+
+h2 {
+    font-size: 30px; 
+}
+h3 {
+    font-size: 26px;
+}
+
+
+.socials {
+    border: 10px; 
+    background-color: #e1cca5; 
+    font-size: 23px; 
+}
+
+
+.mylinks:hover {
+    background: rgb(173, 216, 230); 
+}
+
+
+

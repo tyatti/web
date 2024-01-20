@@ -1,0 +1,64 @@
+
+body {
+    background-color: rgb(0,0,0);
+    color: rgb(180, 112, 126); 
+}
+
+
+
+
+p {
+    font-size: 23px; 
+}
+
+
+h1 {
+    font-size: 44px; 
+}
+
+
+h2 {
+    font-size: 30px;
+}
+.wavy {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: rgb(130, 123, 112);
+}
+
+h3 {
+    font-size: 26px;
+}
+
+
+
+.socials {
+    border: 10px; 
+    background-color:rgb(30, 15, 19);
+    color: rgb(182, 179, 175);
+    font-size: 23px;
+}
+.links{
+    color:rgb(182, 179, 175);
+}
+
+.projectbox h3 {
+    font-size: 20px; 
+}
+
+
+.mylinks {
+    color: orange;
+}
+
+
+.mylinks:hover {
+    background: rgb(22, 128, 214); 
+}
+.links:hover {
+    background: rgb(22, 128, 214); 
+}
+
+
+
+rgb(159, 117, 196)
