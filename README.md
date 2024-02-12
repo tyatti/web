@@ -1,3 +1,3 @@
-
-<a href="https://tyatti.github.io/web/index.html" target="_blank">this is my website <br>
-bwhaha!</a>
+this is my website <br>
+bwhaha!
+[Visit ](https://tyatti.github.io/web/index.html){:target="_blank"}
