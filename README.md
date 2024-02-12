@@ -1,3 +1,3 @@
 this is my website <br>
 bwhaha!
-[Visit ](https://tyatti.github.io/web/index.html){:target="_blank"}
+[Visit ](https://tyatti.github.io/web/index.html)
